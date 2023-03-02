@@ -1,4 +1,4 @@
-PHARMACY MANAGEMENT SYSTEM
+# PHARMACY MANAGEMENT SYSTEM
 Pharmacy management system with login, billing, inventory and report generation features implemented using tkinter and json in Python.
 
 BILLING:
